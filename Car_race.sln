@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car_race.Plugins", "Car_race.Plugins.csproj", "{FED36088-810C-32CD-C9BB-5245B4D97608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car_race", "Car_race.csproj", "{5546B7E5-32DF-123B-56BB-4C11BF86E0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car_race.Editor.Plugins", "Car_race.Editor.Plugins.csproj", "{91CB4E06-CB90-3ED0-3723-060BF16E0FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED36088-810C-32CD-C9BB-5245B4D97608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED36088-810C-32CD-C9BB-5245B4D97608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED36088-810C-32CD-C9BB-5245B4D97608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED36088-810C-32CD-C9BB-5245B4D97608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5546B7E5-32DF-123B-56BB-4C11BF86E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5546B7E5-32DF-123B-56BB-4C11BF86E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5546B7E5-32DF-123B-56BB-4C11BF86E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5546B7E5-32DF-123B-56BB-4C11BF86E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CB4E06-CB90-3ED0-3723-060BF16E0FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CB4E06-CB90-3ED0-3723-060BF16E0FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CB4E06-CB90-3ED0-3723-060BF16E0FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CB4E06-CB90-3ED0-3723-060BF16E0FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
